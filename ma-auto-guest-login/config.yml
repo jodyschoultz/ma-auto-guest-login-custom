@@ -2,6 +2,7 @@ name: "MA Auto Guest Login"
 description: "A web server that provides an easy way for guests to access Music Assistant controls via Home Assistant"
 version: "1.5.0"
 slug: "ma-auto-guest-login"
+image: "norick/image-{arch}-ha-auto-guest-login-addon"
 init: false
 codenotary: cnathanorick@gmail.com
 url: https://github.com/cnorick/ha-auto-guest-login
